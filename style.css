@@ -87,6 +87,10 @@ color: #E0B612;
     background: #495BC3;
     color: #fff;
 }
+.submit-btn:disabled{
+    background-color: #afb7e4;
+    color: #dbdbdb;
+}
 .notify {
     color: #fff;
     text-align: center;
